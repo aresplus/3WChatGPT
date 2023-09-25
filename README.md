@@ -33,7 +33,19 @@
 * 4.乐意探索知识和技术应用，喜欢折腾的人群
 * 5.有耐心、能坚持，认同我们的理念的人
 
+# 3WChatGPT项目在线资源
 
+**ChatGPT使用向导在线云文档：**  
+<https://k0vequy8gze.feishu.cn/docx/O5aHdLT4toQ69LxwOOxcmmIOnHg>
+
+**MIdjourney使用向导：**  
+<https://k0vequy8gze.feishu.cn/wiki/wikcnswpUbEww2hhgU42zHXnrFb>
+
+**Midjourney-Prompts宝典：**  
+<https://k0vequy8gze.feishu.cn/sheets/shtcneHp5xyCcguOxI2oj98T8fg>
+
+**Midjourney-行业Prompts参考：**  
+<https://k0vequy8gze.feishu.cn/sheets/shtcn7hJZdZFbrbUIJN3Y8w53jh>
 
 
 
