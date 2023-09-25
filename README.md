@@ -1,7 +1,7 @@
 # 3WChatGPT
 身怀对信息技术的无尽热情，我勇敢地踏上了创业之路。凭借多年对设计和产品的热爱，我在2022年12月3日便发现并使用了ChatGPT。那是一个令我难以忘怀的时刻，因为它所展现出来的惊人逻辑和智能让我惊叹不已。从那时起，我就致力于向周围的人推荐这个产品，然而并未引起他们的关注。直到2023年2月上旬，ChatGPT这个产品突然成为焦点，各大媒体争相报道，信息铺天盖地而来。面对新事物，我一直持谨慎态度。作为一名长期主义者和极简主义者，我一直在做减法，不盲从跟风。同时，我也以严谨的态度深入学习ChatGPT，研究AI绘画领域。在2月8日，我撰写了一份关于ChatGPT的白皮书，用以向他人推广。从2月到3月的两个月里，我几乎阅读了大部分可收集到的专业技术文档。
 
-![alt text](https://pic1.zhimg.com/v2-9c1287559918bea53972b5622ebb06f6_720w.jpg?source=d16d100b)
+<div align=center><img src ="https://mmbiz.qpic.cn/mmbiz_jpg/tUX9o9C6DUQ9PsLvmbMLGkeiaeOAZncR6m9S8xKmKMUQWcdAZYIxaictiasDJtJRGXeZv0WtKghPgCzC9I4JibWghA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1"/></div>
 
 随着学习的深入，我意识到有必要向人们推广AI技术应用。这些技术真的能极大地提高我们的工作效率，成为我们得力的助手。作为一名产品经理，我的职业敏感让我能够嗅到优秀产品的气息。曾经的设计师身份和设计公司的经营者经历，让我更有信心投身AI技术推广。在过去的三四年里，我运营自媒体，在小众领域积累了近5万的粉丝，因此我深感有责任在国内推动AI技术的应用与发展。
 
@@ -49,6 +49,9 @@
 **Midjourney-行业Prompts参考：**  
 <https://k0vequy8gze.feishu.cn/sheets/shtcn7hJZdZFbrbUIJN3Y8w53jh>
 
+<div align=center><img src ="https://mmbiz.qpic.cn/mmbiz_jpg/tUX9o9C6DUQ9PsLvmbMLGkeiaeOAZncR66ibWpFEwzn7O0ibfcZNqs7H6bFUgd0nmicXnD95uKoLjtHWRhy3aH0yvg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1"/></div>
+<div align=center><img src ="https://mmbiz.qpic.cn/mmbiz_jpg/tUX9o9C6DUQ9PsLvmbMLGkeiaeOAZncR6nTJ1uw06tlQkME5hEs7qmczwEXMxTlINwMUpIpVeUOCdWYpGibqjNAw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1"/></div>
+<div align=center><img src ="https://mmbiz.qpic.cn/mmbiz_jpg/tUX9o9C6DUQ9PsLvmbMLGkeiaeOAZncR6DsKDqbtRzia9TicLcV2mTxeb1orqGL8q95ibwLzCmdpygKDB8TM6IFxuA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1"/></div>
 
 
 
